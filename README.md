@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ekaterinakreis
 - 👀 I’m interested in interior design and art
 - 🌱 I’m currently learning Python and QA
-- 💞️ I’m looking to collaborate on who learn Python
+- 💞️ I’m looking to collaborate with someone who learns Python
 - 📫 How to reach me ...
 
 <!---
