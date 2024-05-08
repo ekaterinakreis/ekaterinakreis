@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ekaterinakreis. Welcom ro my account)
+- 👋 Hi, I’m @ekaterinakreis. Welcome to my account)
 - 👀 I’m interested in interior design and art
 - 🌱 I’m currently improving my  Python and JavaScript skills 
 - 📫 How to reach me ...
