@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Kate Kreis</h1>
-<h3 align="center">A passionate QA tester</h3>
-<img align = "Right" alt="Coding" wight = "400" scr ="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
+<h1 align="left">Hi 👋, I'm Kate Kreis</h1>
+<h3 align="left">   A passionate QA tester</h3>
+<img align = "Right"  wight = "400" scr ="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 
 - 🔭 I’m currently working on **volunteer and open source projects**
 
@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I like graphic design and GUI testing**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
