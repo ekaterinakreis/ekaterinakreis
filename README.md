@@ -1,6 +1,7 @@
-https://dribbble.com/shots/2498700/attachments/2498700-Toptal-Scholarship-for-Female-Developers-Winner?mode=media
+
 <h1 align="center">Hi 👋, I'm Kate Kreis</h1>
 <h3 align="center">A passionate QA tester</h3>
+<img align = 'Right' alt = "Coding" wight = "400" scr = https://dribbble.com/shots/2498700/attachments/2498700-Toptal-Scholarship-for-Female-Developers-Winner?mode=media>
 
 - 🔭 I’m currently working on **volunteer and open source projects**
 
